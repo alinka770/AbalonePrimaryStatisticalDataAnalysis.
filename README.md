@@ -1,6 +1,9 @@
 # Abalone_Primary_statistical_data_analysis.
 The goal of the work is to study the methods of primary statistical data analysis, master the capabilities of Python libraries for conducting such analysis, and acquire skills in implementing these methods independently.
 
+To use this project, you need to move the file "abalone.csv" to the path "D:\abalone.csv"
+
+
 This project consists from 2 parts: 
 
 First part of the project:
